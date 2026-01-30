@@ -1,4 +1,4 @@
-## Hi, I am Turan
+## Hi,
 
 ## M.Sc. Materials Engineer @RWTH and B.Sc. Energy Systems Engineer @AYBU Mechanical Engineering | Structural Intergrity and Computational Materials
 
