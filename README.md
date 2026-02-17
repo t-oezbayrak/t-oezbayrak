@@ -7,27 +7,32 @@ I aim to bridge mechanical performance, material physics, and energy systems thr
 
 ---
 
-## Engineering Focus
+## Engineering Domains
 
-### Performance & Design Engineering
-- Structural optimization (FEA)
-- Composite and metallic failure analysis
-- Aerodynamic mount and geometry validation
-- Design for Manufacturing (DfM)
-- Lightweight structural concepts
+### Structural & Performance Engineering
+- Composite and metallic FEA
+- Insert–laminate load transfer analysis
+- Aerodynamic mount optimization
+- Failure index evaluation (CFAILURE)
+- Lightweight structural reasoning
 
-### Computational Materials & Mechanics
+### Aerodynamic Simulation
+- 2D Steady RANS (k-ω SST)
+- Multi-element wing interaction
+- Flow separation diagnosis
+- Iterative geometry refinement
+
+### Computational Materials
 - Molecular Dynamics (LAMMPS)
-- Vacancy formation & defect energetics
-- Atomic-scale adsorption studies
-- Fracture & fatigue mechanics
-- Nanoindentation-based property evaluation
+- Vacancy formation energy (bcc Fe)
+- GCMC water adsorption in silica
+- Defect energetics and atomistic modeling
 
-### Energy Systems Engineering
-- Hydrogen fuel cell system integration
-- Space-frame structural design
-- Electrochemical characterization (EIS)
-- Thermodynamic and heat transfer modeling
+### System Integration & Design
+- Hydrogen fuel cell frame design
+- Packaging under volume constraints
+- Design for Manufacturing (DfM)
+- Mechanical–electrical system integration
 
 ---
 
@@ -63,8 +68,14 @@ Nanoindentation, Metallography, ThermoCalc
 
 ---
 
-## Engineering Philosophy
+## Engineering Approach
 
-I approach engineering problems through simulation-first reasoning, combining mechanics, material behavior, and system-level constraints to create optimized and physically grounded solutions.
+I approach engineering problems across scales:
+
+- **Atomistic scale:** defect energetics and adsorption behavior  
+- **Component scale:** stress distribution and structural reliability  
+- **System scale:** packaging, integration, and performance validation  
+
+The unifying principle across all projects is simulation-driven engineering decisions grounded in physical reasoning.
 
 ---
